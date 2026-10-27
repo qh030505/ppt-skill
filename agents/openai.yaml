@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recreate Editable PPTX"
+  short_description: "Rebuild images, PDFs, or image-based PPT/PPTX files into editable PPTX"
+  default_prompt: "Use $recreate-editable-pptx to rebuild the input into an object-level editable PowerPoint PPTX. "
